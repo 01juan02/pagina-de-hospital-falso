@@ -1,0 +1,120 @@
+body{
+	background: #1ff;
+}
+header{
+	background: #1bf;
+	border: 10px solid #18f;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 10px;
+	margin: 0;
+}
+footer{
+	margin-top: 200px;
+}
+nav{
+	display: flex;
+	flex-direction: row;
+	margin-left: 50%;
+}
+nav p{
+	color: #fdf;
+	font-size: 20px;
+}
+img{
+	width: 95%;
+	height: 60%;
+	object-fit: contain;
+}
+#contacto{
+	color: #ffd;
+	font-size: 20px;
+	background: #1cf;
+	border-radius: 10%;
+	border: 2px solid #aff;
+	width: 90px;
+	height: 60px;
+	margin: 0 4px;
+}
+#contacto:hover{
+	background: #1df;
+}
+#contacto:active{
+	background: #1df;
+	box-shadow: 3px 3px #acf;
+}
+#informacion{
+	color: #ffd;
+	font-size: 20px;
+	background: #1cf;
+	border-radius: 10%;
+	border: 2px solid #aff;
+	width: 120px;
+	height: 60px;
+	margin: 0 4px;
+}
+#informacion:hover{
+	background: #1df;
+}
+#informacion:active{
+	background: #1df;
+	box-shadow: 3px 3px #acf;
+}
+#nosotros{
+	color: #ffd;
+	font-size: 20px;
+	background: #1cf;
+	border-radius: 10%;
+	border: 2px solid #aff;
+	width: 110px;
+	height: 60px;
+	margin: 0 4px;
+}
+#nosotros:hover{
+	background: #1df;
+}
+#nosotros:active{
+	background: #1df;
+	box-shadow: 3px 3px #acf;
+}
+#rqs{
+	color: #ffd;
+	font-size: 15px;
+	background: #1cf;
+	border-radius: 10%;
+	border: 2px solid #aff;
+	width: 130px;
+	height: 60px;
+	margin: 0 4px;
+}
+a{
+	font-size: 20px;
+}
+a:hover{
+	color: #fff;
+}
+a:active{
+	color: #03df;
+}
+#direccion{
+	font-size: 20px;
+}
+#rqs:hover{
+	background: #1df;
+}
+#rqs:active{
+	background: #1df;
+	box-shadow: 3px 3px #acf;
+}
+#cabecera{
+	display: flex;
+	flex-direction: column;
+}
+h1{
+	color: #fdf;
+	margin-left: 24%;
+}
+h3{
+	margin-left: 18%;
+}
